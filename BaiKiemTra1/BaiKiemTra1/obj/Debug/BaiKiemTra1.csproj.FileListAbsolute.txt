@@ -1,0 +1,10 @@
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.Properties.Resources.resources
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.Form1.resources
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\bin\Debug\BaiKiemTra1.exe.config
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\bin\Debug\BaiKiemTra1.exe
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\bin\Debug\BaiKiemTra1.pdb
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.exe
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\BaiKiemTra1\BaiKiemTra1\obj\Debug\BaiKiemTra1.pdb
