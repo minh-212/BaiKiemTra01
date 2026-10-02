@@ -1,0 +1,15 @@
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\bin\Debug\net10.0\Baikiemtraso1 Phan2.exe
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\bin\Debug\net10.0\Baikiemtraso1 Phan2.deps.json
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\bin\Debug\net10.0\Baikiemtraso1 Phan2.runtimeconfig.json
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\bin\Debug\net10.0\Baikiemtraso1 Phan2.dll
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\bin\Debug\net10.0\Baikiemtraso1 Phan2.pdb
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemtraso1 Phan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemtraso1 Phan2.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemtraso1 Phan2.AssemblyInfo.cs
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemtraso1 Phan2.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemtraso1 Phan2.dll
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\refint\Baikiemtraso1 Phan2.dll
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemtraso1 Phan2.pdb
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemtraso1 Phan2.genruntimeconfig.cache
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\ref\Baikiemtraso1 Phan2.dll
+C:\Users\GIGABYTE\Downloads\BT 4.1 19.9\Baikiemtraso1 Phan2\Baikiemtraso1 Phan2\obj\Debug\net10.0\Baikiemt.D925ACC1.Up2Date
